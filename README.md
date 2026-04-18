@@ -31,35 +31,29 @@
 </div>
 
 ---
-
-### 💼 Featured Projects
-
-<p align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=LeagueSite&theme=tokyonight" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=LeagueSite&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-</p>
+### 💼 Featured Projects (Visual Showcase)
 
 <p align="center">
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-45F7B2?style=for-the-badge&logo=github&logoColor=black" />
+  <a href="رابط_الموقع_الشغال_الأول_هنا" target="_blank">
+    <img src="رابط_صورة_المشروع_الأول_هنا" alt="Project 1 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="رابط_الموقع_الشغال_الثاني_هنا" target="_blank">
+    <img src="رابط_صورة_المشروع_الثاني_هنا" alt="Project 2 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
+<p align="center">
+  <a href="رابط_الموقع_الشغال_الثالث_هنا" target="_blank">
+    <img src="رابط_صورة_المشروع_الثالث_هنا" alt="Project 3 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
 ---
 
 ### 🌐 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ah-substq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdelrahman@substq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
