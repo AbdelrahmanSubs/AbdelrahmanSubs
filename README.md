@@ -46,25 +46,22 @@
   <a href="https://alhasanabuelkyr.com" target="_blank">
     <img src="/Alhassan02.png" alt="alhasanabuelkyr" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://alsadiqrealestate.com" target="_blank">
+    <a href="https://alsadiqrealestate.com" target="_blank">
     <img src="/Alsadek.png" alt="alsadiqrealestate" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://americafreshcleanksa.com" target="_blank">
     <img src="/America-Fresh.png" alt="americafreshcleanksa" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://afkar-lamsat.com" target="_blank">
+    <a href="https://afkar-lamsat.com" target="_blank">
     <img src="/store01.png" alt="afkar-lamsat" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
 </p>
+
+
 ---
 
 ### 🌐 Connect with me
