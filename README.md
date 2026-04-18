@@ -38,10 +38,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=YOUR_REPO_NAME&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=LeagueSite&theme=tokyonight" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=YOUR_REPO_NAME&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=LeagueSite&theme=tokyonight" />
       </td>
     </tr>
   </table>
