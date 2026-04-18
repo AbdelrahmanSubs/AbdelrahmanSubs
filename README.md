@@ -34,17 +34,35 @@
 ### 💼 Featured Projects (Visual Showcase)
 
 <p align="center">
-  <a href="[رابط_الموقع_الشغال_الأول_هنا](https://abaadaniqa.com)" target="_blank">
-    <img src="/abaadaniqa-com-0.png" alt="Project 1 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  <a href="https://abaadaniqa.com" target="_blank">
+    <img src="/Abaad02.png" alt="abaadaniqa" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
-  <a href="رابط_الموقع_الشغال_الثاني_هنا" target="_blank">
-    <img src="رابط_صورة_المشروع_الثاني_هنا" alt="Project 2 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  <a href="https://aden-tv.com" target="_blank">
+    <img src="/Aden-tv.png" alt="aden-tv" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
 <p align="center">
-  <a href="رابط_الموقع_الشغال_الثالث_هنا" target="_blank">
-    <img src="رابط_صورة_المشروع_الثالث_هنا" alt="Project 3 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  <a href="https://alhasanabuelkyr.com" target="_blank">
+    <img src="/Alhassan02.png" alt="alhasanabuelkyr" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://alsadiqrealestate.com" target="_blank">
+    <img src="/Alsadek.png" alt="alsadiqrealestate" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://americafreshcleanksa.com" target="_blank">
+    <img src="/America-Fresh.png" alt="americafreshcleanksa" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://afkar-lamsat.com" target="_blank">
+    <img src="/store01.png" alt="afkar-lamsat" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
 </p>
 ---
