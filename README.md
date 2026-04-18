@@ -26,8 +26,8 @@
 ### 📊 GitHub Stats (Real-time)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubWay74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubWay74&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
@@ -38,10 +38,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME_HERE&repo=YOUR_REPO_NAME&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=YOUR_REPO_NAME&theme=tokyonight" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME_HERE&repo=YOUR_REPO_NAME&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SubWay74&repo=YOUR_REPO_NAME&theme=tokyonight" />
       </td>
     </tr>
   </table>
