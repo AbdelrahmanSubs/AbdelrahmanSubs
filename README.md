@@ -3,7 +3,7 @@
 # 🚀 Hello World, I'm Abdelrahman 
 ### ⚡ Full Stack Sorcerer | Crafting Digital Experiences
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Abdelrahman%20Dev&fontSize=80&animation=fadeIn" width="100%" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7B2&center=true&vCenter=true&width=435&lines=React.js+Specialist;Node.js+Backend+Architect;Full+Stack+Developer;Turning+Coffee+into+Code)](https://git.io/typing-svg)
 
