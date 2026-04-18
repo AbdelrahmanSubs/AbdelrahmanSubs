@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
+<h3 align="center">Full Stack Developer | React & Node.js</h3>
 
-<!--
-**SubWay74/SubWay74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 I build modern web apps & dashboards  
+💡 متخصص في React و Node.js  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+</p>
+
+---
+
+## 💼 Projects
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://via.placeholder.com/300x200" width="30%" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://via.placeholder.com/300x200" width="30%" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://via.placeholder.com/300x200" width="30%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/See More-000?style=for-the-badge" />
+  </a>
+</p>
