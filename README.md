@@ -34,8 +34,8 @@
 ### 💼 Featured Projects (Visual Showcase)
 
 <p align="center">
-  <a href="رابط_الموقع_الشغال_الأول_هنا" target="_blank">
-    <img src="رابط_صورة_المشروع_الأول_هنا" alt="Project 1 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  <a href="[رابط_الموقع_الشغال_الأول_هنا](https://abaadaniqa.com)" target="_blank">
+    <img src="/abaadaniqa-com-0.png" alt="Project 1 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
   </a>
   <a href="رابط_الموقع_الشغال_الثاني_هنا" target="_blank">
     <img src="رابط_صورة_المشروع_الثاني_هنا" alt="Project 2 Name" width="45%" style="border-radius: 10px; margin: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
